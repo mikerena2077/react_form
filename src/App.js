@@ -6,7 +6,7 @@ import "./styles.css";
 import { useForm, useField, splitFormProps } from "react-form";
 import axios, * as others from 'axios';
 
-const axios = require('axios');
+//const axios = require('axios');
 
 
 async function sendToFakeServer(values) {
