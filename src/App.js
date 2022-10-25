@@ -4,6 +4,7 @@ import ReactDOM from "react-dom";
 import "./styles.css";
 
 import { useForm, useField, splitFormProps } from "react-form";
+import axios, * as others from 'axios';
 
 const axios = require('axios');
 
